@@ -56,4 +56,6 @@ sudo apt update
 sudo apt dist-upgrade
 ```
 
+![Diagrama](cooper-bot-lex.png)
+![Diagrama](cooper-bot-lambda.png)
 ![Diagrama](cooper-bot-messenger.png)
