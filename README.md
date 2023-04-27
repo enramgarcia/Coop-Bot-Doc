@@ -55,3 +55,5 @@ sudo apt -f install
 sudo apt update
 sudo apt dist-upgrade
 ```
+
+![Diagrama](cooper-bot-messenger.png)
